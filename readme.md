@@ -4,7 +4,7 @@
 
 A simple email spam filter trained using ham and spam data from files.
 
-![Spam Master 3000](https://github.com/TheFakeNinja/csci2020u_MuazRehman/tree/main/Assignment1/result.png?raw=true)
+![Spam Master 3000](https://github.com/TheFakeNinja/csci2020u_Assignment1/result.png?raw=true)
 
 ## Improvements
 
